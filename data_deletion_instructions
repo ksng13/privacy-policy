@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hướng dẫn xóa dữ liệu</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Hướng dẫn xóa dữ liệu người dùng</h1>
+    <p>Người dùng có thể yêu cầu xóa dữ liệu của mình bằng cách thực hiện các bước sau:</p>
+
+    <ul>
+        <li>Truy cập ứng dụng của chúng tôi.</li>
+        <li>Vào phần **Cài đặt** trong ứng dụng.</li>
+        <li>Chọn **Xóa tài khoản** hoặc **Yêu cầu xóa dữ liệu**.</li>
+        <li>Ngoài ra, bạn có thể gửi email trực tiếp đến: <strong>contact@example.com</strong> với tiêu đề "Yêu cầu xóa dữ liệu".</li>
+    </ul>
+
+    <p>Chúng tôi sẽ xử lý yêu cầu trong vòng 7 ngày làm việc.</p>
+</body>
+</html>
